@@ -1,0 +1,18 @@
+body{
+  padding: 30px;
+  background-color: cyan;
+}
+.Formcontainer{
+  text-align: center;
+  padding: 30px 30px 30px;
+  margin:9% auto;
+  height: 100%;
+  width: 90%; 
+  background: pink;
+   border-radius: 5px;
+
+}
+.Formbox {
+	display: block;
+	margin-block: 50px;
+}
