@@ -1,18 +1,22 @@
 body{
-  padding: 30px;
+  padding: 25px;
   background-color: cyan;
 }
 .Formcontainer{
-  text-align: center;
-  padding: 30px 30px 30px;
-  margin:9% auto;
+  
+  padding: 10px 10px 10px;
+  margin:40% auto;
   height: 100%;
-  width: 90%; 
+  width: 100%; 
   background: pink;
-   border-radius: 5px;
+   border-radius: 10px;
 
 }
 .Formbox {
 	display: block;
-	margin-block: 50px;
+	margin-block: 10px;
+}
+h1{text-align: center;}
+form2{
+  text-align: center;
 }
